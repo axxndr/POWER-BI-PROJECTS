@@ -1,6 +1,6 @@
 # POWER-BI-PROJECTS
 
-**My basic Power BI Dashboards**
+### My basic Power BI Dashboards
 
 ## HR Dashboard
 
